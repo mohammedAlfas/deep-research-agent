@@ -17,4 +17,4 @@ Output Phase: The enhanced report is presented to the user and available for dow
 Python 3.8+
 OpenAI API key
 Firecrawl API key
-Required Python packages (see requirements.txt)
+Required Python packages (see requirements.txt).
